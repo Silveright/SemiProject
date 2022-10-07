@@ -1,4 +1,5 @@
 # SemiProject-한눈에쇼핑
+[https://github.com/Silveright/Semi_Project2]
 
 servlet+jsp 쇼핑몰 사이트
 
