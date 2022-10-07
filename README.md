@@ -16,7 +16,7 @@ servlet+jsp 쇼핑몰 사이트
 
 * `java 11` `Tomcat 9.0` `Oracle DB(11xe)`
 
-# ERD 설계
+# ⚙️ERD 설계
 
 ![image](https://user-images.githubusercontent.com/100340071/194599615-3ae814f2-aa65-4bf6-8fd5-52b56b01990b.png)
 
