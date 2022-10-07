@@ -12,3 +12,8 @@ servlet+jsp 쇼핑몰 사이트
 * 마이페이지
 * 리뷰 게시판
 
+# 개발 환경
+
+* `java 11` `Tomcat 9.0` `Oracle DB(11xe)`
+
+# 상세 기능
