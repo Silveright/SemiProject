@@ -17,3 +17,4 @@ servlet+jsp 쇼핑몰 사이트
 * `java 11` `Tomcat 9.0` `Oracle DB(11xe)`
 
 # ✔️상세 기능
+![mypage](https://user-images.githubusercontent.com/100340071/194596151-64ce4523-a0fa-4b23-b42a-826cdd5681b1.gif)
