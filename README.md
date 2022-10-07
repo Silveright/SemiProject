@@ -16,6 +16,11 @@ servlet+jsp 쇼핑몰 사이트
 
 * `java 11` `Tomcat 9.0` `Oracle DB(11xe)`
 
+# ERD 설계
+
+![image](https://user-images.githubusercontent.com/100340071/194599615-3ae814f2-aa65-4bf6-8fd5-52b56b01990b.png)
+
+
 # ✔️구현 기능
 
 ![mypage](https://user-images.githubusercontent.com/100340071/194599246-12e6720a-d02b-4ffa-be34-5ac69297f3f7.gif)
