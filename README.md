@@ -14,7 +14,7 @@ servlet+jsp 쇼핑몰 사이트
 
 # 🧰개발 환경
 
-* ``java 11` `Tomcat 9.0` `Oracle DB(11xe)`
+* `java 11` `Tomcat 9.0` `Oracle DB(11xe)`
 
 # ERD 설계
 
